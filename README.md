@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmckeehan
-- 👀 I’m interested in ... Learning Java, C#, and Python
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... C#
+- 👀 I’m interested in ... Tech, learning, and games
+- 🌱 I’m currently learning ... C#, German, Game Dev
+- 💞️ I’m looking to collaborate on ... C#, Games, and any other project that can expand my learning.
 - 📫 How to reach me ... https://www.linkedin.com/in/michaelmckeehan/
 
 <!---
